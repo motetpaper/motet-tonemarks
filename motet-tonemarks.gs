@@ -2,7 +2,7 @@
  * motet-tonemarks.gs
  * job    : Converts tone numbers to tone marks
  * git    : https://github.com/motetpaper/motet-tonemarks
- * lic    : MIT
+ * lic    : MIT https://opensource.org/license/mit
  * version: 3.5.1
  * @OnlyCurrentDoc Limits the script to only accessing the current spreadsheet.
  */
