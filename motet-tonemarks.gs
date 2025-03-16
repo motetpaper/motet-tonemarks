@@ -14,7 +14,7 @@ const tf    = {}; // fifth tone
 // load data
 
 (function(){
-  const url = 'https://raw.githubusercontent.com/motetpaper/data/refs/heads/main/pnyn/tmiso.json'
+  const url = 'https://motetpaper.github.io/data/pnyn/tmiso.json'
   const headers = {
     'Cache-Control' : 'max-age=259200'
   };
@@ -24,7 +24,7 @@ const tf    = {}; // fifth tone
 })();
 
 (function(){
-  const url = 'https://raw.githubusercontent.com/motetpaper/data/refs/heads/main/pnyn/tm.json'
+  const url = 'https://motetpaper.github.io/data/pnyn/tm.json'
   const headers = {
     'Cache-Control' : 'max-age=259200'
   };
@@ -34,7 +34,7 @@ const tf    = {}; // fifth tone
 })();
 
 (function(){
-  const url = 'https://raw.githubusercontent.com/motetpaper/data/refs/heads/main/pnyn/tf.json'
+  const url = 'https://motetpaper.github.io/data/pnyn/tf.json'
   const headers = {
     'Cache-Control' : 'max-age=259200'
   };
